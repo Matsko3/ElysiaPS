@@ -100,7 +100,7 @@ export default class Dispatch{
             res.writeHead(200, {
                 'Content-Type': 'image/x-icon'
             })
-            res.write(fs.readFileSync(`./src/routes/crepe.ico`));
+            res.write(fs.readFileSync(`./src/routes/elysia.ico`));
             res.end();
             return;
         }
