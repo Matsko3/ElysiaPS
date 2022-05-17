@@ -1,5 +1,5 @@
 # ElysiaPS
-a ps for a certain anime game
+a ps for the famous game GENSHIN IMPACT
 
 
 New function preview!
